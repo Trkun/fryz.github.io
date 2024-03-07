@@ -1,6 +1,6 @@
 layout: page
 title: "resume"
-permalink: https://Trkun/fryz.github.io/main/page
+permalink: https://Trkun/fryz.github.io/main/page/resume
 markdown: GFM
 
 **<span class="smallcaps">Rui Zhang</span>**
