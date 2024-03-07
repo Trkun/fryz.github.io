@@ -1,6 +1,7 @@
 layout: page
 title: "resume"
 permalink: https://Trkun/fryz.github.io/main/page
+markdown: GFM
 
 **<span class="smallcaps">Rui Zhang</span>**
 
