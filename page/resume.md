@@ -1,6 +1,6 @@
 layout: page
 title: "resume"
-permalink: https://github.com/Trkun/fryz.github.io/new/main/page
+permalink: https://github.com/Trkun/fryz.github.io/main/page
 
 **<span class="smallcaps">Rui Zhang</span>**
 
