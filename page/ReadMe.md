@@ -17,7 +17,7 @@ In today's digital age, presenting your professional profile online has become a
 -   A GitHub or Codeberg account.
 -   A resume prepared in Markdown format. If you're new to Markdown, don't worry! It's simple to learn, and this guide includes resources to get you started.
 
-**More Resources:** For an in-depth Markdown tutorial, check out Markdown Guide.
+*For an in-depth Markdown tutorial, check out Markdown Guide under More Resrouces.*
 
 ## Instructions
 
@@ -53,10 +53,10 @@ In today's digital age, presenting your professional profile online has become a
 
 To further assist you in this journey, here are additional resources:
 
--   Mastering Markdown: A comprehensive guide to Markdown syntax, perfect for beginners.
--   Jekyll Documentation: Everything you need to know about setting up and customizing your Jekyll site.
--   GitHub Pages Documentation: Detailed instructions on how to host your site using GitHub Pages.
--   Codeberg Documentation: Similar to GitHub, Codeberg offers a platform for hosting your projects and documentation with the added benefit of being an open-source, non-profit service.
+-   [Mastering Markdown](https://www.markdownguide.org/getting-started/): A comprehensive guide to Markdown syntax, perfect for beginners.
+-   [Jekyll Documentation](https://jekyllrb.com/docs/): Everything you need to know about setting up and customizing your Jekyll site.
+-   [GitHub Pages Documentation](https://docs.github.com/en/pages): Detailed instructions on how to host your site using GitHub Pages.
+-   [Codeberg Documentation](https://codeberg.org/help): Similar to GitHub, Codeberg offers a platform for hosting your projects and documentation with the added benefit of being an open-source, non-profit service.
 
 ## Authors and Acknowledgements
 
