@@ -1,8 +1,10 @@
+---
 layout: page
 title: "resume"
-permalink: /resume
+permalink: /resume/
 markdown: GFM
 ---
+
 **<span class="smallcaps">Rui Zhang</span>**
 
 112 Bairdmore Blvd, Winnipeg Manitoba R3T 5X6 | 204-891-1866 |
