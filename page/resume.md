@@ -5,12 +5,13 @@ permalink: /resume/
 markdown: GFM
 ---
 
-**<span class="smallcaps">Rui Zhang</span>**
+Rui Zhang
+========
 
 112 Bairdmore Blvd, Winnipeg Manitoba R3T 5X6 | 204-891-1866 |
 zhangrui2345@outlook.com
 
-**<span class="smallcaps">Summary</span>**
+# Summary 
 
 - Fast learner with excellent critical thinking, problem-solving
   ability, and passion for mechanical engineering.
@@ -26,7 +27,7 @@ zhangrui2345@outlook.com
 - Proficient in data analysis tools such as WITNESS Horizon, Excel,
   MATLAB and Unity.
 
-**<span class="smallcaps">Education</span>**
+# Education
 
 **Bachelor of Science, Major in Computer Science** **2019 – 2024**
 
@@ -34,7 +35,7 @@ zhangrui2345@outlook.com
 
 - **Relevant Courses**: Kinematics and Dynamics (A+), Physics 2: Waves and Modern Physics (A+), Heat Transfer (A), Contemporary Statistics for Engineers (A), Elements of Electric Machines and Digital Systems (A), Fundamentals of Fluid Mechanics (A+)
 
-**<span class="smallcaps">Project Experience</span>**
+# Project Experience
 
 **AR Maintenance Model Design,** *Summer Research, University of
 Manitoba* **Jun 2022 – Sept 2023**
@@ -76,7 +77,7 @@ Design* **Oct 2021 – Dec 2021**
 - Calculated the ideal dimensions of the beam and used SolidWorks to
   simulate the stress process.
 
-**<span class="smallcaps">Work Experience</span>**
+# Work Experience
 
 **Project Research Assistant Mar 2023 – Jun 2023**
 
