@@ -46,8 +46,8 @@ Manitoba* **Jun 2022 – Sept 2023**
 
 - Showed great attention to detail and solid academic written skills by summarizing the project procedures and organizing the final report with sections including the methodology, findings and limitations.
 
-**BoardGames Database Project,** *COMP 4020 Human-computer 
-Interaction II* **Aug 2022 – Dec 2022**
+**BoardGames Database Mobile Application,** *COMP 4020 Human-computer 
+Interaction II* **Sept 2022 – Dec 2022**
 - https://github.com/Trkun/bored-games
 
 - The project aims to design an application on iPhone to provide recommendations and basic information on different board games.
@@ -60,24 +60,13 @@ Interaction II* **Aug 2022 – Dec 2022**
 
 - Exhibited great attention to detail by organizing all the outcome data and successfully holding the final presentation myself, demonstrating outstanding speech skills.
 
-**Vertical Load Support Beam Design,** *MECH 3502 Stress Analysis &
-Design* **Oct 2021 – Dec 2021**
+**Food Ordering Website Design,** *COMP 3020 Human-computer
+Interaction I* **Sept 2023 – Dec 2023**
 - https://github.com/Trkun/COMP-3020
 
-- The project aims to design a beam to support two vertical loads under
-  an electric fence with the least material and the maximum deflection
-  of two points where apply the vertical load will be less than 1.0 mm.
+- The project aims to design a functional website prototype that supports user interaction.
 
-- Analyzed the given data and calculated the ideal thickness of the beam
-  to satisfy the maximum deflection strengthened the data analytical
-  skills.
-
-- Determined the shape of the beam to save the material, which is an
-  I-shape beam which can use the least material and bear the largest
-  stress.
-
-- Calculated the ideal dimensions of the beam and used SolidWorks to
-  simulate the stress process.
+- Analyzed how users will interact with our website and given out applicable error handling.
 
 # Work Experience
 
@@ -91,7 +80,7 @@ Design* **Oct 2021 – Dec 2021**
 
 - Acquired proficiency in using SciFEA supercomputing software, actively participating in the analysis and simulation of tunnel laboratory experiments to evaluate product performance and feasibility.
 
-- Played a key role in simulating the application of optical fiber sensing products, contributing to the development of management systems and operating procedures for 5 tons bridge cranes in tunnel laboratory environments.
+- Played a key role in simulating the application of optical fiber sensing products, contributing to the development of management systems and operating procedures for 5-ton bridge cranes in tunnel laboratory environments.
 
 **Welding Product Design Assistant Jun 2021 – Aug 2021**
 
