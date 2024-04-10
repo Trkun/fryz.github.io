@@ -14,9 +14,9 @@ zhangrui2345@outlook.com
 # Summary 
 
 - Fast learner with excellent critical thinking, problem-solving
-  ability, and passion for mechanical engineering.
+  ability, and passion for computer science.
 
-- Proven work experience in mechanical engineering with strong project
+- Proven work experience in computer science with strong project
   management skills.
 
 <!-- -->
@@ -27,13 +27,13 @@ zhangrui2345@outlook.com
 - Proficient in data analysis tools such as WITNESS Horizon, Excel,
   MATLAB and Unity.
 
+- Experience with different code languages such as C++, C#, Javascript, Python, PHP, GO.
+
 # Education
 
 **Bachelor of Science, Major in Computer Science** **2019 – 2024**
 
 *University of Manitoba* Winnipeg, MB
-
-- **Relevant Courses**: Kinematics and Dynamics (A+), Physics 2: Waves and Modern Physics (A+), Heat Transfer (A), Contemporary Statistics for Engineers (A), Elements of Electric Machines and Digital Systems (A), Fundamentals of Fluid Mechanics (A+)
 
 # Project Experience
 
@@ -46,21 +46,23 @@ Manitoba* **Jun 2022 – Sept 2023**
 
 - Showed great attention to detail and solid academic written skills by summarizing the project procedures and organizing the final report with sections including the methodology, findings and limitations.
 
-**Woodchipper Speed Reduction System Design,** *MECH 3652 Machine
-Design* **Mar 2022 – May 2022**
+**BoardGames Database Project,** *COMP 4020 Human-computer 
+Interaction II* **Aug 2022 – Dec 2022**
+- https://github.com/Trkun/bored-games
 
-- The project aims to design a gear/belt/chain system for a woodchipper from the single combustion engineer input to output to achieve a 7:1 speed reduction.
+- The project aims to design an application on iPhone to provide recommendations and basic information on different board games.
 
-- Demonstrated solid analytical skills by using the given data, computing the required dimensions for the system, and deciding the best material to apply to the gears.
+- Demonstrated solid development skills by applying different concepts once at our projects, like the use of API and handling of error crashing.
 
-- Enhanced excellent desktop research skills by searching the references to decide the engineering standard that will be applied to the system.
+- Enhanced team working experience as we are simulating real-life teamwork and scheduling tight deadlines.
 
-- Displayed fast learning ability using SolidWorks software to design the transmission system and simulate the operation process.
+- Displayed fast learning ability using React app and Javascript to design the final prototype.
 
-- Exhibited great attention to detail by organizing all the outcome data and rearranging the computed and refined results into the final report, demonstrating outstanding professional writing skills.
+- Exhibited great attention to detail by organizing all the outcome data and successfully holding the final presentation myself, demonstrating outstanding speech skills.
 
 **Vertical Load Support Beam Design,** *MECH 3502 Stress Analysis &
 Design* **Oct 2021 – Dec 2021**
+- https://github.com/Trkun/COMP-3020
 
 - The project aims to design a beam to support two vertical loads under
   an electric fence with the least material and the maximum deflection
@@ -79,7 +81,7 @@ Design* **Oct 2021 – Dec 2021**
 
 # Work Experience
 
-**Project Research Assistant Mar 2023 – Jun 2023**
+**Project Research Assistant April 2023 – Jun 2023**
 
 *Jiaoda Weida* Beijing, China
 
